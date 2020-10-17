@@ -18,3 +18,5 @@ My accounts elsewhere:
 Favourite music genre(s) - it's complicated. Check out [my main music playlist](https://www.youtube.com/playlist?list=PLnthTbhS8ZO9m8nkK25JYC4CIphFvHk7r) to understand why.
 
 You can also drop me an email on tiberiumk12 &lt;at&gt; gmail.com if you want :)
+
+Page view count (stats are anonymous) -  ![](https://komarev.com/ghpvc/?username=Yardanico&color=grey)
