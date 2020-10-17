@@ -15,6 +15,6 @@ My accounts elsewhere:
   - [Twitter](https://twitter.com/yardanic0) - I'm not an active Twitter user, so I just like and retweet good tweets once in a while.
   - [VKontakte](https://vk.com/id170831732) - rarely use VK, but will reply to the messages.
 
-Favourite music - it's complicated. Check out [my main music playlist](https://www.youtube.com/playlist?list=PLnthTbhS8ZO9m8nkK25JYC4CIphFvHk7r) to understand why.
+Favourite music genre(s) - it's complicated. Check out [my main music playlist](https://www.youtube.com/playlist?list=PLnthTbhS8ZO9m8nkK25JYC4CIphFvHk7r) to understand why.
 
 You can also drop me an email on tiberiumk12 &lt;at&gt; gmail.com if you want :)
