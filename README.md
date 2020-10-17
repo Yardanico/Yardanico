@@ -21,4 +21,4 @@ You can also drop me an email on tiberiumk12 &lt;at&gt; gmail.com if you want :)
 
 Page view count (stats are anonymous):
 
-![](https://komarev.com/ghpvc/?username=Yardanico&color=grey)
+<img align="right" src="https://komarev.com/ghpvc/?username=Yardanico&color=grey">
