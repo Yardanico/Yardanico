@@ -19,4 +19,6 @@ Favourite music genre(s) - it's complicated. Check out [my main music playlist](
 
 You can also drop me an email on tiberiumk12 &lt;at&gt; gmail.com if you want :)
 
-Page view count (stats are anonymous) -  ![](https://komarev.com/ghpvc/?username=Yardanico&color=grey)
+Page view count (stats are anonymous):
+
+![](https://komarev.com/ghpvc/?username=Yardanico&color=grey)
