@@ -20,7 +20,7 @@ Favourite music genre(s) - it's complicated. Check out [my main music playlist](
 Some of my projects:
  - [ircord](https://github.com/Yardanico/ircord) - Discord <-> IRC bridge written in Nim, written for the Nim Discord server but should work for any discord/irc server combination with some little tweaks (feel free contact me if you want to get it running for your server!)
  - [nim-snippets](https://github.com/Yardanico/nim-snippets) - a collection of my smaller Nim stuff which (in my opinion) doesn't deserve to have its own repo. There you can find stuff like Telegram bots, nimble package dependency graphing, Nim IRC logs parsing and more. 
- - [nimeventer](https://github.com/Yardanico/nimeventer) - small Nim program to post new Nim forum/subreddit updates onto Discord, IRC, Telegram to let the community know about new posts/threads.
+ - [nimeventer](https://github.com/Yardanico/nimeventer) - small Nim program to post new Nim forum/subreddit/stackoverflow updates onto Discord, IRC, Telegram to let the community know about new posts/threads.
  - [pylib](https://github.com/Yardanico/nimpylib) - a pretty silly library which brings some of Python built-in functions or operators to Nim :)
  - [mathexpr](https://github.com/Yardanico/nim-mathexpr) - a small and simple Nim library to evaluate your math expressions (recursive-descent in-tree evaluating), supports adding custom Nim functions or variables.
 
