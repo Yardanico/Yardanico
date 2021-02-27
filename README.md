@@ -18,6 +18,4 @@ Some of my projects:
 
 Of course, there's more, but it wouldn't make sense to put every repo of mine in there.
 
-You can also drop me an email on tiberiumk12 &lt;at&gt; gmail.com if you want :)
-
 <img align="right" src="https://komarev.com/ghpvc/?username=Yardanico&color=grey">
