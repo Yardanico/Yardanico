@@ -1,13 +1,18 @@
 ## Yardanico's small corner
 
-Hello there! My name is Danil Yarantsev. I'm your average 20-year old Russian student.
+Hello there! My name is Danil Yarantsev. I'm just an average CS student.
 
 I speak these languages:
-  - 🇷🇺 Russian (native)
-  - 🇬🇧 English (~B2-C1)
-  - 👑 Nim
 
-Favourite music genre(s) - it isn't easy to tell precisely. Check out [my main music playlist](https://www.youtube.com/playlist?list=PLnthTbhS8ZO9m8nkK25JYC4CIphFvHk7r) to understand why.
+- 🇷🇺 Russian (native)
+
+- 🇬🇧 English (~B2-C1)
+
+- 👑 Nim
+
+My personal blog - https://zen.su
+
+Favorite music genre(s) - probably electronic music, but I listen to any music that catches my ear. You can check out [my main music playlist](https://www.youtube.com/playlist?list=PLnthTbhS8ZO9m8nkK25JYC4CIphFvHk7r) on YouTube.
 
 Some of my projects:
  - [ircord](https://github.com/Yardanico/ircord) - Discord <-> IRC bridge written in Nim, written for the Nim Discord server but should work for any discord/irc server combination with some little tweaks (feel free contact me if you want to get it running for your server!).
